@@ -1,0 +1,5 @@
+.directory
+*.pyc
+todolist.md
+.ipynb_checkpoints/
+.vscode/
