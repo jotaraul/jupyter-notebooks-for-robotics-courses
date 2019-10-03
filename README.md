@@ -7,7 +7,7 @@ If you are a Lecturer interested in the complete version of the notebooks, you c
 
 This collection of Jupyter notebooks is being used in robotics undergraduate courses from the University of Malaga (Spain).
 
-Try it in: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jotaraul/jupyter-notebooks-for-robotics-courses/master)[![Azure Notebooks](https://notebooks.azure.com/launch.svg)](https://notebooks.azure.com/erauz/projects/jupyter-notebooks-for-robotics)
+Try it in: &nbsp; [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jotaraul/jupyter-notebooks-for-robotics-courses/master) &nbsp; [![Azure Notebooks](https://notebooks.azure.com/launch.svg)](https://notebooks.azure.com/import/gh/jotaraul/jupyter-notebooks-for-robotics-courses)
 
 ## Topics covered
 
