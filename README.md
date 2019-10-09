@@ -5,7 +5,7 @@ Each notebook includes some theoretical background on the topic at hand, and cod
 This resource is an **Student version**, therefore the  coding exercises do not include solutions.
 If you are a Lecturer interested in the complete version of the notebooks, you can ask for them individually.
 
-This collection of Jupyter notebooks is being used in robotics undergraduate courses from the University of Malaga (Spain).
+Developed by Samuel Felipe Baltanas, Jose Raul Ruiz, and Javier Gonzalez, Machine Perception and Intelligent Robotics group (MAPIR), University of Malaga (Spain).
 
 Try it in: &nbsp; [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jotaraul/jupyter-notebooks-for-robotics-courses/master) &nbsp; [![Azure Notebooks](https://notebooks.azure.com/launch.svg)](https://notebooks.azure.com/import/gh/jotaraul/jupyter-notebooks-for-robotics-courses)
 
