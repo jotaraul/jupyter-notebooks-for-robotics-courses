@@ -23,7 +23,7 @@ class FOVSensor():
 
         # Add noise if neccesary
         if noisy: 
-            z += np.sqrt(self.cov_sensor)@random.rand(2, world.shape[1])
+            z += np.sqrt(self.cov_sensor)@random.randn(2, world.shape[1])
 
         # Flatten into a vertical vector if neccesary
         if flatten:
