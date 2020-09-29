@@ -7,7 +7,7 @@ If you are a Lecturer interested in the complete version of the notebooks, you c
 
 Developed by Samuel Felipe Baltanas, Jose Raul Ruiz, and Javier Gonzalez, Machine Perception and Intelligent Robotics group (MAPIR), University of Malaga (Spain).
 
-Try it in: &nbsp; [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jotaraul/jupyter-notebooks-for-robotics-courses/master) &nbsp; [![Azure Notebooks](https://notebooks.azure.com/launch.svg)](https://notebooks.azure.com/import/gh/jotaraul/jupyter-notebooks-for-robotics-courses)
+Try it in: &nbsp; [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jotaraul/jupyter-notebooks-for-robotics-courses/master)
 
 ## Topics covered
 
