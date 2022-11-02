@@ -15,7 +15,7 @@ jsonschema==3.0.1
 jupyter==1.0.0
 jupyter_client==5.2.4
 jupyter_console==6.0.0
-jupyter_core==4.4.0
+jupyter-core>=4.11.2
 kiwisolver==1.1.0
 MarkupSafe==1.1.1
 matplotlib==3.1.0
